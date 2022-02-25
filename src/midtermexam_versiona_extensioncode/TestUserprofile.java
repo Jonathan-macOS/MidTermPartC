@@ -21,6 +21,7 @@ public class TestUserprofile {
          System.out.print("Pick genres: Comedy,Drama,Action,Mystery:");
          String genres = scan.nextLine();
          System.out.println("userProfile was created");
+         system.out.ptinln("");
    } 
    
 }
